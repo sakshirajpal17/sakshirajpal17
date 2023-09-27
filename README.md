@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Rajpal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshirajpal17&label=Profile%20views&color=0e75b6&style=flat" alt="sakshirajpal17" /> </p>
+<p align="left"> <img src="[17973908](https://github.com/sakshirajpal17/sakshirajpal17/assets/89202930/22c18fd1-c536-4574-bcd4-a4faa7bc3813)" alt="sakshirajpal17" /> </p>![17973908](https://github.com/sakshirajpal17/sakshirajpal17/assets/89202930/22c18fd1-c536-4574-bcd4-a4faa7bc3813)
+
 
 -  I’m currently working on Web Development , Data Analytics , AWS certification 
 -  I’m currently learning Python , AI Tools , Machine Learning 
