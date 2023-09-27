@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshirajpal17&label=Profile%20views&color=0e75b6&style=flat" alt="sakshirajpal17" /> </p>
 
-- 🌱 I’m currently working on **Web Development , Data Analytics , AWS certification **
-
-- 📫 How to reach me **sakshi0717work@gmail.com**
+-  I’m currently working on Web Development , Data Analytics , AWS certification 
+-  I’m currently learning Python , AI Tools , Machine Learning 
+-  How to reach me **sakshi0717work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
