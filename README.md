@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakshi Rajpal</h1
+<h1 align="left">Hi 👋, I'm Sakshi Rajpal</h1
 
 
 -  I’m currently working on Web Development , Data Analytics , AWS certification 
