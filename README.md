@@ -2,7 +2,7 @@
 
 
 -  I’m currently working on Business Analytics , Data Analytics , Project Management , Web development 
--  I’m currently learning Python , AI Tools , Machine Learning 
+-  I’m currently learning SQL , BI Tools , Visualization Techniques  
 -  How to reach me **sakshirajpal547@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
