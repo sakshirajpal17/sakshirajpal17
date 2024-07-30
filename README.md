@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Sakshi Rajpal</h1
 
 
--  I’m currently working on Web Development , Data Analytics , AWS certification 
+-  I’m currently working on Business Analytics , Data Analytics , Project Management , Web development 
 -  I’m currently learning Python , AI Tools , Machine Learning 
--  How to reach me **sakshi0717work@gmail.com**
+-  How to reach me **sakshirajpal547@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
